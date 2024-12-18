@@ -5,9 +5,9 @@
 
                 This dataset serves as a resource for:
 
-                        + Smart contract security analysis
-                        + Machine learning model training for vulnerability detection
-                        + Educational purposes for developers and researchers
+                        Smart contract security analysis
+                        Machine learning model training for vulnerability detection
+                        Educational purposes for developers and researchers
 
 
 ## Dataset Structure
