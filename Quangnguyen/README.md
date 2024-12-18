@@ -5,18 +5,19 @@
 
                 This dataset serves as a resource for:
 
-                        Smart contract security analysis
-                        Machine learning model training for vulnerability detection
-                        Educational purposes for developers and researchers
+                         Smart contract security analysis
+                         Machine learning model training for vulnerability detection
+                         Educational purposes for developers and researchers
 
 
-## Dataset Structure
+## Dataset Structure :
  | func | label	| index_level_0  |
+ |------| ------| -----------|
  | function donateToken(address _token, uint256 _amount) external {} | 1 |	3826   |                   
  | function addOperator(address newOperator) public {}	 |0 |	13932 |
 
 
-  ## Applications
+  # Applications
                 This dataset can be used for the following applications:
 
 ### Smart Contract Vulnerability Detection:
